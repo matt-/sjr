@@ -8,3 +8,4 @@
 * [Robo](https://github.com/matt-/sjr/raw/main/games/Robo.sjr)
 * [Soccer](https://github.com/matt-/sjr/raw/main/games/Soccer.sjr)
 * [SpaceShoot](https://github.com/matt-/sjr/raw/main/games/SpaceShoot.sjr)
+* [Robo](https://github.com/matt-/sjr/raw/main/games/Robo.sjr)
